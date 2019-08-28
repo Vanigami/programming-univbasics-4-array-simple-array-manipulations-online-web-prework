@@ -8,3 +8,4 @@ end
 
 def using_pop(array, string)
   violet_array = array.pop
+end
