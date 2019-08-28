@@ -5,3 +5,5 @@ end
 def using_unshift(array, string)
   array.unshift('violet')
 end
+
+def using_pop(array)
